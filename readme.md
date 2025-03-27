@@ -4,4 +4,4 @@ In simple words, OSINT is a methodology to gather information without directly i
 
 The following post is about my OSINT experience.
 
-![Image](https://github.com/user-attachments/assets/dab3969f-b647-4d0b-8c89-5fe1e59f614f)
+![Image](https://github.com/user-attachments/assets/843b6469-4d70-43a5-a3dc-35d97415f7ae)
